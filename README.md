@@ -17,47 +17,21 @@ Inspired by [Community Writer Programs](https://github.com/malgamves/CommunityWr
 
 ## Filter by the kind of ambassador you want to be
 
-- [AI startup / AI coding-tool ambassador](#ai-startup--ai-coding-tool-ambassador)
-- [AI / ML / data science ambassador](#ai--ml--data-science-ambassador)
-- [Cloud / DevOps / platform engineering ambassador](#cloud--devops--platform-engineering-ambassador)
-- [Open-source / developer-tooling ambassador](#open-source--developer-tooling-ambassador)
-- [Testing / QA / API ambassador](#testing--qa--api-ambassador)
-- [Database / data infrastructure ambassador](#database--data-infrastructure-ambassador)
-- [Frontend / design / app-development ambassador](#frontend--design--app-development-ambassador)
-- [Enterprise / ecosystem expert](#enterprise--ecosystem-expert)
-- [Campus / student ambassador](#campus--student-ambassador)
-- [General community leader / creator programs](#general-community-leader--creator-programs)
-- [Paused, unclear, or verify manually](#paused-unclear-or-verify-manually)
+- [AI-focused Ambassador](#ai-focusedambassador)
+- [AI / ML / Data Science Ambassador](#ai--ml--data-science-ambassador)
+- [Cloud / DevOps / Platform Ambassador](#cloud--devops--platform-ambassador)
+- [Open-source / Dev-tool Ambassador](#open-source--dev-tool-ambassador)
+- [Testing / QA / API Ambassador](#testing--qa--api-ambassador)
+- [Database / Data infra Ambassador](#database--data-infra-ambassador)
+- [Frontend / Design / App-dev Ambassador](#frontend--design--app-dev-ambassador)
+- [Enterprise / Ecosystem expert](#enterprise--ecosystem-expert)
+- [Campus / Student Ambassador](#campus--student-ambassador)
+- [General Community Leader / Creator Programs](#general-community-leader--creator-programs)
+- [Paused Programs](#paused-programs)
 
 ---
 
-# Developer Ambassador Programs
-
-A curated list of developer ambassador, expert, champion, creator, community-leader, and student ambassador programs.
-
-Inspired by [Community Writer Programs](https://github.com/malgamves/CommunityWriterPrograms) and cross-checked against [geshan/developer-ambassador-programs](https://github.com/geshan/developer-ambassador-programs).
-
-> **Status key:** ✅ Active/public page available | 🎓 Students only | ⚠️ Verify/cohort-based/applications may be closed | ⏸️ Paused/closed/unclear  
-> **Last audited:** August 2026  
-> **Note:** Programs change often. Use the links to confirm whether applications are currently open.
-
-## Filter by the kind of ambassador you want to be
-
-- [AI startup / AI coding-tool ambassador](#ai-startup--ai-coding-tool-ambassador)
-- [AI / ML / data science ambassador](#ai--ml--data-science-ambassador)
-- [Cloud / DevOps / platform engineering ambassador](#cloud--devops--platform-engineering-ambassador)
-- [Open-source / developer-tooling ambassador](#open-source--developer-tooling-ambassador)
-- [Testing / QA / API ambassador](#testing--qa--api-ambassador)
-- [Database / data infrastructure ambassador](#database--data-infrastructure-ambassador)
-- [Frontend / design / app-development ambassador](#frontend--design--app-development-ambassador)
-- [Enterprise / ecosystem expert](#enterprise--ecosystem-expert)
-- [Campus / student ambassador](#campus--student-ambassador)
-- [General community leader / creator programs](#general-community-leader--creator-programs)
-- [Paused, unclear, or verify manually](#paused-unclear-or-verify-manually)
-
----
-
-## AI startup / AI coding-tool ambassador
+## AI-focused Ambassador
 
 - [Claude Campus Program](https://claude.com/programs/campus) - Anthropic program for student-led Claude Builder Clubs and Claude Campus Ambassadors. 🎓
   > Best for students building AI communities, hosting workshops, and teaching Claude workflows.
@@ -91,7 +65,7 @@ Inspired by [Community Writer Programs](https://github.com/malgamves/CommunityWr
 
 ---
 
-## AI / ML / data science ambassador
+## AI / ML / Data Science Ambassador
 
 - [Google Developer Experts — AI / ML](https://developers.google.com/community/experts) - GDE track for experienced AI/ML practitioners recognized by Google.
   > Best for builders teaching Google AI, Gemini/GenAI, ML, data, and AI-for-web workflows.
@@ -128,7 +102,7 @@ Inspired by [Community Writer Programs](https://github.com/malgamves/CommunityWr
 
 ---
 
-## Cloud / DevOps / platform engineering ambassador
+## Cloud / DevOps / Platform Ambassador
 
 - [AWS Community Builders](https://aws.amazon.com/developer/community/community-builders/) - AWS technical enthusiasts and emerging thought leaders.
   > Offers technical resources, education, networking, and community recognition.
@@ -168,7 +142,7 @@ Inspired by [Community Writer Programs](https://github.com/malgamves/CommunityWr
 
 ---
 
-## Open-source / developer-tooling ambassador
+## Open-source / Dev-tool Ambassador
 
 - [Appwrite Heroes](https://appwrite.io/heroes) - Community leaders who build, write, speak, and help developers build with Appwrite.
   > Good for open-source builders creating Appwrite content, demos, tutorials, talks, or community support.
@@ -224,7 +198,7 @@ Inspired by [Community Writer Programs](https://github.com/malgamves/CommunityWr
 
 ---
 
-## Database / data infrastructure ambassador
+## Database / Data Infra Ambassador
 
 - [Apify Partners / Store Creators](https://apify.com/partners) - Apify partner and creator routes for developers publishing Actors, affiliates, integration partners, and automation specialists.
   > Best for web scraping, browser automation, data extraction, and AI-agent tooling builders; the partner page links to Apify Store creators and affiliate partners.
@@ -252,7 +226,7 @@ Inspired by [Community Writer Programs](https://github.com/malgamves/CommunityWr
 
 ---
 
-## Frontend / design / app-development ambassador
+## Frontend / design / App-Dev Ambassador
 
 - [Auth0 Ambassador](https://auth0.com/ambassador-program) - Ambassadors sharing identity/security knowledge through talks, meetups, webinars, and content.
   > Good for developers focused on auth, identity, security, and developer education.
@@ -280,7 +254,7 @@ Inspired by [Community Writer Programs](https://github.com/malgamves/CommunityWr
 
 ---
 
-## Enterprise / ecosystem expert
+## Enterprise / Ecosystem Expert
 
 - [Microsoft MVP](https://mvp.microsoft.com/en-US/mvp) - Microsoft Most Valuable Professionals program for exceptional technical community leaders.
   > Good for Azure, .NET, Windows, Power Platform, security, data, and dev tools experts who show technical expertise, speaking/community leadership, online influence, and real-world problem solving.
@@ -305,7 +279,7 @@ Inspired by [Community Writer Programs](https://github.com/malgamves/CommunityWr
 
 ---
 
-## Campus / student ambassador
+## Campus / Student ambassador
 
 - [Adobe Student Ambassador Program](https://www.adobeforeducation.com/student-ambassador-program) - Student ambassadors promote Adobe tools on campus through workshops, creative sessions, pop-ups, social tips, and student-group collaborations. 🎓
   > Applications are listed as open on the page; perks include tiered rewards/gift cards, limited merch, marketing/events/content experience, and access to the Adobe education team and fellow ambassadors in the US, UK, and Australia.
@@ -357,7 +331,7 @@ Inspired by [Community Writer Programs](https://github.com/malgamves/CommunityWr
 
 ---
 
-## General community leader / creator programs
+## General Community leader / Creator Programs
 
 - [DeepLearning.AI Event Ambassador](https://www.deeplearning.ai/ambassador/) - AI event ambassadors growing local AI communities.
   > Best for hosting events and helping people break into AI.
@@ -379,7 +353,7 @@ Inspired by [Community Writer Programs](https://github.com/malgamves/CommunityWr
 
 ---
 
-## Paused, unclear, or verify manually
+## Paused Programs
 
 - [Twilio Champions](https://www.twilio.com/en-us/champions) - Public page exists, but applications appear limited/closed. ⏸️
 
