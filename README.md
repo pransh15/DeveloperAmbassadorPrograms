@@ -2,7 +2,7 @@
 
 A curated list of developer ambassador, expert, champion, creator, community-leader, and student ambassador programs.
 
-A list of **99 developer programs**. To add more programs or edit anything and help me maintain this list, look into [Contributing](/CONTRIBUTING.md).
+A list of **96 developer programs**. To add more programs or edit anything and help me maintain this list, look into [Contributing](/CONTRIBUTING.md).
 
 Inspired by [Community Writer Programs](https://github.com/malgamves/CommunityWriterPrograms) and cross-checked against [geshan/developer-ambassador-programs](https://github.com/geshan/developer-ambassador-programs).
 
@@ -12,6 +12,32 @@ Inspired by [Community Writer Programs](https://github.com/malgamves/CommunityWr
 > ⚠️ Verify/cohort-based/applications may be closed
 > ⏸️ Paused/closed/unclear
 
+> **Last audited:** August 2026  
+> **Note:** Programs change often. Use the links to confirm whether applications are currently open.
+
+## Filter by the kind of ambassador you want to be
+
+- [AI startup / AI coding-tool ambassador](#ai-startup--ai-coding-tool-ambassador)
+- [AI / ML / data science ambassador](#ai--ml--data-science-ambassador)
+- [Cloud / DevOps / platform engineering ambassador](#cloud--devops--platform-engineering-ambassador)
+- [Open-source / developer-tooling ambassador](#open-source--developer-tooling-ambassador)
+- [Testing / QA / API ambassador](#testing--qa--api-ambassador)
+- [Database / data infrastructure ambassador](#database--data-infrastructure-ambassador)
+- [Frontend / design / app-development ambassador](#frontend--design--app-development-ambassador)
+- [Enterprise / ecosystem expert](#enterprise--ecosystem-expert)
+- [Campus / student ambassador](#campus--student-ambassador)
+- [General community leader / creator programs](#general-community-leader--creator-programs)
+- [Paused, unclear, or verify manually](#paused-unclear-or-verify-manually)
+
+---
+
+# Developer Ambassador Programs
+
+A curated list of developer ambassador, expert, champion, creator, community-leader, and student ambassador programs.
+
+Inspired by [Community Writer Programs](https://github.com/malgamves/CommunityWriterPrograms) and cross-checked against [geshan/developer-ambassador-programs](https://github.com/geshan/developer-ambassador-programs).
+
+> **Status key:** ✅ Active/public page available | 🎓 Students only | ⚠️ Verify/cohort-based/applications may be closed | ⏸️ Paused/closed/unclear  
 > **Last audited:** August 2026  
 > **Note:** Programs change often. Use the links to confirm whether applications are currently open.
 
@@ -42,7 +68,7 @@ Inspired by [Community Writer Programs](https://github.com/malgamves/CommunityWr
 - [Cursor Ambassador Program](https://cursor.com/ambassadors) - Ambassadors helping shape and grow the AI-powered coding community.
   > Best for AI coding workflow creators, community hosts, and developer-tool educators.
 
-- [Devin.ai Ambassador / Community](https://devin.ai/community) - Community program for people leading Devin communities, hosting events, creating content, and giving feedback. ⚠️
+- [Devin.ai Ambassador / Community](https://devin.ai/community) - Community program for people leading Devin communities, hosting events, creating content, and giving feedback.
   > Best for AI-agent and autonomous-coding community organizers. Site may rate-limit/bot-check.
 
 - [Kiro Ambassadors](https://kiro.dev/ambassadors/) - Ambassadors get early access opportunities, a free Kiro subscription, private ambassador channels, event credits, and direct feedback channels.
@@ -246,11 +272,8 @@ Inspired by [Community Writer Programs](https://github.com/malgamves/CommunityWr
 - [Storyblok Ambassadors / MVP Program](https://www.storyblok.com/ambassadors) - Storyblok ambassador/MVP route recognizing builders, innovators, and advocates shaping content with Storyblok.
   > Best for headless CMS, frontend, content architecture, and Storyblok ecosystem educators creating tutorials, talks, projects, and community resources.
 
-- [Softr Partner Program](https://www.softr.io/partner-program) - Softr route for becoming a solutions partner around no-code client portals, internal tools, and business apps.
-  > Best for no-code builders, freelancers, agencies, and educators who want partner/community status rather than a pure developer-ambassador title.
-
-- [Softr Affiliate Program](https://www.softr.io/affiliate) - Softr affiliate route for creators recommending Softr.
-  > Best if your ambassador path is distribution, tutorials, templates, and referrals.
+- [Softr Ambassador Program](https://www.softr.io/ambassador-program) - Ambassador program for people who create content, run workshops, and help spread the word about Softr.
+  > Best for no-code builders, educators, workshop hosts, and creators teaching Softr; perks include exclusive feature access, global community connection, free subscriptions, and branded swag.
 
 - [OutSystems Ambassador](https://www.outsystems.com/ambassador-program/) - Community recognition for OutSystems leaders and software innovators.
   > Good for low-code/platform engineers and enterprise app builders.
@@ -271,8 +294,8 @@ Inspired by [Community Writer Programs](https://github.com/malgamves/CommunityWr
 - [Salesforce MVP](https://trailhead.salesforce.com/trailblazer-community/mvp) - Salesforce community recognition program.
   > Good for Salesforce developers/admins, Trailblazer community contributors, and ecosystem educators.
 
-- [Atlassian Community Leaders](https://community.atlassian.com/t5/custom/page/page-id/community-leaders) - Community leaders for Atlassian ecosystem groups. ⚠️
-  > More community-leader than developer-ambassador; relevant for Jira, Confluence, Bitbucket, and Atlassian workflows.
+- [Atlassian Champions](https://community.atlassian.com/champions) - Atlassian Champions connect, advocate, mentor, and drive change across Atlassian communities and workplaces.
+  > Best for Jira, Confluence, Bitbucket, and Atlassian ecosystem leaders who answer questions, organize events/groups, mentor others, and partner with Atlassian teams; benefits include private Champion spaces, Atlassian team access, event support, certification vouchers, profile recognition, and possible Team ticket/networking access.
 
 - [Google Developer Groups Organizer](https://developers.google.com/community/gdg) - Organizers who run local Google Developer Groups.
   > Not exactly an ambassador program, but practically similar for local developer-community leadership.
@@ -286,9 +309,6 @@ Inspired by [Community Writer Programs](https://github.com/malgamves/CommunityWr
 
 - [Adobe Student Ambassador Program](https://www.adobeforeducation.com/student-ambassador-program) - Student ambassadors promote Adobe tools on campus through workshops, creative sessions, pop-ups, social tips, and student-group collaborations. 🎓
   > Applications are listed as open on the page; perks include tiered rewards/gift cards, limited merch, marketing/events/content experience, and access to the Adobe education team and fellow ambassadors in the US, UK, and Australia.
-
-- [Adobe Express for Students](https://www.adobe.com/express/learn/students) - Adobe Express student learning route. ⚠️
-  > Useful for student creators and campus content educators; verify whether Adobe is running an active ambassador cohort before listing it as formal.
 
 - [Zed for Students](https://zed.dev/education) - Zed Pro is free for verified university students for one year. 🎓
   > Includes Zed Pro features, AI token credits, edit predictions, and real-time multiplayer collaboration for eligible enrolled university students.
@@ -335,9 +355,6 @@ Inspired by [Community Writer Programs](https://github.com/malgamves/CommunityWr
 - [Stack Overflow Student Ambassador](https://students.stackoverflow.co/) - Student leaders representing Stack Overflow on campus. 🎓 ⚠️
   > Cohort-based; check if applications are open.
 
-- [X Student Ambassadors](https://developer.twitter.com/en/community/student-ambassadors) - Student ambassadors around X/Twitter developer community. 🎓 ⚠️
-  > Check current availability; program visibility may vary by region/cohort.
-
 ---
 
 ## General community leader / creator programs
@@ -371,3 +388,4 @@ Inspired by [Community Writer Programs](https://github.com/malgamves/CommunityWr
 ## Resources with similar lists
 
 - [Community Writer Programs](https://github.com/malgamves/CommunityWriterPrograms) - Paid developer/community writer programs.
+- [Developer Ambassador Programs by Geshan](https://github.com/geshan/developer-ambassador-programs) - Maintained seed list of developer ambassador programs.
