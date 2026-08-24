@@ -2,7 +2,7 @@
 
 A curated list of developer ambassador, expert, champion, creator, community-leader, and student ambassador programs.
 
-A list of **96 developer programs**. To add more programs or edit anything and help me maintain this list, look into [Contributing](/CONTRIBUTING.md).
+A list of **99 developer programs**. To add more programs or edit anything and help me maintain this list, look into [Contributing](/CONTRIBUTING.md).
 
 Inspired by [Community Writer Programs](https://github.com/malgamves/CommunityWriterPrograms) and cross-checked against [geshan/developer-ambassador-programs](https://github.com/geshan/developer-ambassador-programs).
 
@@ -54,11 +54,8 @@ Inspired by [Community Writer Programs](https://github.com/malgamves/CommunityWr
 - [Supermemory Ambassador Program](https://x.com/Muskanjain0401/status/2091450806075883820?s=20) - Supermemory announced a small ambassador cohort for technical creators and project shippers.
   > Best for builders creating technical content around AI memory, context engines, personal knowledge, and agent memory workflows. The post asks applicants to share proof of work: shipped projects, best technical post, X, and GitHub; linked application form: [Supermemory Ambassador Program](https://docs.google.com/forms/d/e/1FAIpQLScQG24SRH8-MgkTVmQC-w0y49TKWSA7eL3qSAYxB5QPXb-31Q/viewform?usp=send_form).
 
-- [Lovable Community](https://lovable.dev/community) - Lovable community page for builders using Lovable. ⚠️
-  > No public `/ambassadors` page was found during audit; use the community route if you want to become visible as a Lovable builder/educator.
-
-- [Lovable Partners / Affiliates](https://lovable.dev/partners) - Partner route for people or companies supporting Lovable adoption. ⚠️
-  > Useful if your “ambassador” goal is creator-led distribution, referrals, or implementation help rather than an official title.
+- [Lovable Ambassadors](https://community.lovable.app/ambassadors) - Lovable community leadership program with four tracks: City Leads, Campus Leads, Industry Leads, and Educator Leads.
+  > Best for Lovable builders who host meetups/workshops, teach, run campus/community activations, or drive adoption in an industry; perks include a free Pro account, event reimbursement/toolkit, team access, amplification, and a private ambassador community.
 
 - [n8n Ambassador Program](https://n8n.io/ambassadors) - Local automation-community ambassadors who host meetups/workshops and connect builders using n8n.
   > Best for automation educators, workflow builders, and local AI-automation community hosts; asks ambassadors to run at least 3 events per year.
@@ -113,6 +110,9 @@ Inspired by [Community Writer Programs](https://github.com/malgamves/CommunityWr
 - [AWS Heroes](https://aws.amazon.com/developer/community/heroes/) - Recognizes AWS experts with strong knowledge-sharing impact.
   > Usually nomination/recognition-based; for experienced AWS community contributors.
 
+- [Cloudflare Community Programs](https://www.cloudflare.com/community/#:~:text=Two%20tracks%20for%20community%20builders) - Cloudflare has two tracks for community builders: Ambassadors and Community Engineers.
+  > Ambassadors lead events, shared learning, and content for students, community organizers, and technical creators; Community Engineers support open-source projects and technical spaces with recognition, credits/resources, and possible grants.
+
 - [AWS Student Builder Campus Leader](https://builder.aws.com/content/3D2eETnWaTyI3XuyKX0T6flZrvq/aws-student-builder-campus-leaders) - Paid, part-time student ambassador role for AWS Builder Center. 🎓
   > Available only in selected countries; focused on campus awareness, events, content, and peer education.
 
@@ -162,6 +162,12 @@ Inspired by [Community Writer Programs](https://github.com/malgamves/CommunityWr
 - [Zed Community](https://zed.dev/community) - Zed's public community/contributor hub for getting involved with the open-source editor.
   > Best for open-source contribution, community support, extensions, and creator activity around Zed. See also the formal student route in the Campus section.
 
+- [JetBrains Content Creators Program](https://www.jetbrains.com/community/content-creators/) - Program for developer content creators, technical educators, coding tutorial creators, dev podcasters, bloggers, streamers, and AI/software experts.
+  > Best for creators making programming, software development, ML, and AI content; perks include JetBrains tools, visibility, resources, and creator support.
+
+- [JetBrains Open Source Support](https://www.jetbrains.com/community/opensource/) - JetBrains support route for open-source projects and maintainers.
+  > Best for OSS maintainers and community projects that use JetBrains tools or want recognition/support around open-source development.
+
 - [Elastic Contributor Program](https://www.elastic.co/community/contributor) - Contributor recognition for Elastic community activity.
   > Tracks contributions across content, code, events, translations, forum help, and community support.
 
@@ -200,6 +206,9 @@ Inspired by [Community Writer Programs](https://github.com/malgamves/CommunityWr
 - [Apify Creators](https://apify.com/creators) - Directory of developers behind Apify Store tools.
   > Best if your ambassador-style path is building and monetizing useful scraping/automation actors rather than hosting a formal community chapter.
 
+- [Neo4j Ninjas Program](https://neo4j.com/ninjas-program/) - Recognizes graph database experts and enthusiasts shaping the Neo4j community.
+  > Best for people writing blogs, presenting at conferences/meetups, leading GitHub projects, doing podcasts/livestreams, helping peers on forums, and planning regular graph-database community contributions; benefits include community featuring and travel reimbursement for Neo4j talks.
+
 - [MongoDB Community Advocacy](https://www.mongodb.com/community/advocacy/) - MongoDB advocacy program with champions/creators style participation.
   > Good for database, app-dev, data modeling, and MongoDB educators.
 
@@ -231,6 +240,12 @@ Inspired by [Community Writer Programs](https://github.com/malgamves/CommunityWr
 - [Ionic Developer Experts](https://ionic.io/developer-experts) - Experts, influencers, and educators in the Ionic ecosystem.
   > Good for hybrid/mobile app developers and Ionic/Capacitor educators.
 
+- [Sanity Community Ambassadors Program](https://www.sanity.io/blog/announcing-sanity-community-ambassadors-program) - Sanity ambassador program for active community members sharing knowledge around composable content and Sanity.
+  > Best for developers and technologists creating Sanity content, helping in community spaces, writing, presenting, making videos, and supporting newcomers; ambassadors get amplification, workshops, networking, and early access to features/releases.
+
+- [Storyblok Ambassadors / MVP Program](https://www.storyblok.com/ambassadors) - Storyblok ambassador/MVP route recognizing builders, innovators, and advocates shaping content with Storyblok.
+  > Best for headless CMS, frontend, content architecture, and Storyblok ecosystem educators creating tutorials, talks, projects, and community resources.
+
 - [Softr Partner Program](https://www.softr.io/partner-program) - Softr route for becoming a solutions partner around no-code client portals, internal tools, and business apps.
   > Best for no-code builders, freelancers, agencies, and educators who want partner/community status rather than a pure developer-ambassador title.
 
@@ -246,6 +261,12 @@ Inspired by [Community Writer Programs](https://github.com/malgamves/CommunityWr
 
 - [Microsoft MVP](https://mvp.microsoft.com/en-US/mvp) - Microsoft Most Valuable Professionals program for exceptional technical community leaders.
   > Good for Azure, .NET, Windows, Power Platform, security, data, and dev tools experts who show technical expertise, speaking/community leadership, online influence, and real-world problem solving.
+
+- [Arm Developer Program / Arm Ambassadors](https://developer.arm.com/arm-developer-program) - Arm Developer Program includes member benefits, community recognition, and an Ambassador path for experienced developers, educators, and community leaders.
+  > Best for people building on Arm across AI, cloud, gaming, mobile, embedded, automotive, and edge; ambassadors collaborate with Arm, create technical content, give talks/workshops, support events, and engage in community spaces.
+
+- [Red Hat User Group](https://www.redhat.com/en/red-hat-user-group) - Red Hat community route for developers and open-source users who meet online/in-person to learn, network, and share Red Hat solution experience.
+  > Best for local user-group organizers and open-source enterprise/Linux/Kubernetes community builders; more user-group/community-leader than formal ambassador title.
 
 - [Salesforce MVP](https://trailhead.salesforce.com/trailblazer-community/mvp) - Salesforce community recognition program.
   > Good for Salesforce developers/admins, Trailblazer community contributors, and ecosystem educators.
@@ -287,6 +308,9 @@ Inspired by [Community Writer Programs](https://github.com/malgamves/CommunityWr
 - [GitHub Campus Experts](https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/use-github-at-your-educational-institution/applying-to-be-a-github-campus-expert) - Student leaders building inclusive technical communities. 🎓
   > Good for students focused on OSS, events, and peer learning.
 
+- [JetBrains Student Pack](https://www.jetbrains.com/academy/student-pack/) - Free JetBrains tools and learning resources for verified students. 🎓
+  > Not an ambassador program, but a useful student-builder resource: full Student Pack requires student verification and includes JetBrains IDE access, coding courses, and a JetBrains AI Pro trial.
+
 - [Intel Student Ambassador Programs](https://www.intel.com/content/www/us/en/developer/community/ambassadors.html) - Student ambassador/community programs around Intel developer technologies. 🎓
   > Good for undergrad/grad students interested in developer communities and technical education.
 
@@ -327,6 +351,9 @@ Inspired by [Community Writer Programs](https://github.com/malgamves/CommunityWr
 - [Google Developer Groups Organizer](https://developers.google.com/community/gdg) - Run a local GDG.
   > Best for local developer-community leadership across Google technologies.
 
+- [JetBrains User Groups Support](https://www.jetbrains.com/community/user-groups/) - JetBrains support program for user groups, including free product licenses for meetups and up to two free IDE subscriptions for user-group leaders.
+  > Best for local programming/user-group organizers who host meetups and want JetBrains licenses/stickers/support for their community.
+
 - [Notion Ambassadors](https://www.notion.so/notion/Notion-Ambassadors-40c3b3ee8c744e7fad34ab4ac9765773) - Teach Notion, run communities, create templates/courses/tutorials.
   > Best for productivity and tool-community educators.
 
@@ -339,17 +366,8 @@ Inspired by [Community Writer Programs](https://github.com/malgamves/CommunityWr
 
 - [Twilio Champions](https://www.twilio.com/en-us/champions) - Public page exists, but applications appear limited/closed. ⏸️
 
-- [Cloudflare Developer Experts](https://developers.cloudflare.com/community/developer-experts/) - Page appeared unavailable/404 during audit. ⚠️
+---
 
-- [JetBrains Developer Recognition](https://www.jetbrains.com/community/recognition/) - Page appeared unavailable/404 during audit. ⚠️
+## Resources with similar lists
 
-- [Neo4j Ninja](https://neo4j.com/community/ninjas-program/) - Page appeared unavailable/404 during audit. ⚠️
-
-- [Arm Ambassadors](https://www.arm.com/resources/developer-programs/ambassador-program) - Page appeared unavailable/404 during audit. ⚠️
-
-- [Red Hat Champions](https://www.redhat.com/en/champions) - Page appeared unavailable/404 during audit. ⚠️
-
-- [Contentful Community Champions](https://www.contentful.com/community/champions/) - Official page sometimes sits behind bot/security checks. ⚠️
-
-- [Lovable Community](https://lovable.dev/community) / [Lovable Partners](https://lovable.dev/partners) - No formal public ambassador page found; community/partner routes are the closest public options. ⚠️
-
+- [Community Writer Programs](https://github.com/malgamves/CommunityWriterPrograms) - Paid developer/community writer programs.
