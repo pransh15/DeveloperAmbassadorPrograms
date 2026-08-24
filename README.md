@@ -2,7 +2,7 @@
 
 A curated list of developer ambassador, expert, champion, creator, community-leader, and student ambassador programs.
 
-A list of **96 developer programs**.
+A list of **96 developer programs**. To add more programs or edit anything and help me maintain this list, look into [Contributing](/CONTRIBUTING.md).
 
 Inspired by [Community Writer Programs](https://github.com/malgamves/CommunityWriterPrograms) and cross-checked against [geshan/developer-ambassador-programs](https://github.com/geshan/developer-ambassador-programs).
 
