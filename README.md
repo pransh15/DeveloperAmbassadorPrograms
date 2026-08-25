@@ -2,7 +2,7 @@
 
 A curated list of developer ambassador, expert, champion, creator, community-leader, and student ambassador programs.
 
-A list of **96 developer programs**. To add more programs or edit anything and help me maintain this list, look into [Contributing](/CONTRIBUTING.md).
+A list of **93 active developer programs**. To add more programs or edit anything and help me maintain this list, look into [Contributing](/CONTRIBUTING.md).
 
 Inspired by [Community Writer Programs](https://github.com/malgamves/CommunityWriterPrograms) and cross-checked against [geshan/developer-ambassador-programs](https://github.com/geshan/developer-ambassador-programs).
 
@@ -136,9 +136,6 @@ Inspired by [Community Writer Programs](https://github.com/malgamves/CommunityWr
 
 - [Kong Champions](https://konghq.com/community/kong-champions) - Community contributors sharing expertise around Kong and APIs.
   > Best for API gateway, microservices, platform engineering, and cloud-native practitioners.
-
-- [Unleash Ambassadors](https://www.getunleash.io/ambassador-program) - Ambassadors sharing DevOps and feature-flag knowledge.
-  > Best for DevOps, platform engineering, release engineering, and feature-management educators.
 
 ---
 
