@@ -231,8 +231,8 @@ Inspired by [Community Writer Programs](https://github.com/malgamves/CommunityWr
 - [Auth0 Ambassador](https://auth0.com/ambassador-program) - Ambassadors sharing identity/security knowledge through talks, meetups, webinars, and content.
   > Good for developers focused on auth, identity, security, and developer education.
 
-- [Cloudinary Ambassadors](https://cloudinary.com/ambassadors) - Community experts focused on image/video/media developer workflows.
-  > Good for web performance, media optimization, frontend, and visual-web educators.
+- [Cloudinary Creators](https://community.cloudinary.com) - Official Cloudinary Creators focus on modern image/video/media developer workflows.
+  > Good for web performance, media optimization, frontend, and visual-web builders.
 
 - [Figma User Group Leader](https://friends.figma.com/become-a-user-group-leader/) - Leaders who run Friends of Figma groups.
   > Not developer-only, but useful for design-engineering, frontend, and product-design community builders.
