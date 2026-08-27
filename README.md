@@ -174,6 +174,9 @@ Inspired by [Community Writer Programs](https://github.com/malgamves/CommunityWr
 - [Commudle Experts](https://www.commudle.com/experts-program) - Expert/community program for developers, DevRel folks, freelancers, students, and community builders.
   > Broad developer-community program, not tied to one narrow tech stack.
 
+- [Shorebird Community Ambassador Program](https://shorebird.dev/blog/shorebirds-community-ambassador-program) - Community Program for Flutter Developers who want to give back to the community.
+  > Best for Flutter Developers and community leaders who want to give back to the community. Shorebird is created by Eric Seidel - Founder of Flutter.
+
 ---
 
 ## Testing / QA / API ambassador
